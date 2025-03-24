@@ -8,6 +8,8 @@ Welcome to the **Footwear Classification Project**! This project leverages machi
 
 Footwear classification is essential for applications in e-commerce, inventory management, and fashion analytics. In this project, we aim to build a robust classification system using unsupervised learning algorithms.
 
+This project uses K-means clustering and Expectation-Maximization (EM) algorithms to classify footwear types from the Footwear Kaggle dataset. Key features include image preprocessing, dimensionality reduction, and result visualization. The project explores unsupervised learning for footwear classification, offering insights into data-driven fashion analysis. Full implementation details are available in the linked Kaggle workbook.
+
 ### Key Features:
 - Utilizes the **Footwear Kaggle Dataset** for training and testing.
 - Implements clustering techniques such as K-Means and EM for classification.
