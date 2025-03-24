@@ -1,7 +1,5 @@
 # Footwear-Classification-with-Machine-Learning
 
-# Footwear Classification Project
-
 Welcome to the **Footwear Classification Project**! This project leverages machine learning techniques like K-Means clustering and Expectation Maximization (EM) to classify footwear images. The dataset and workbook used in this project are hosted on Kaggle.
 
 ## Overview
